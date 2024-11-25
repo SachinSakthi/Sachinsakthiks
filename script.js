@@ -1,4 +1,3 @@
 document.addEventListener('DOMContentLoaded', () => {
-  alert('Welcome to my portfolio!');
+  console.log('Welcome to Sachin Sakthi’s Portfolio!');
 });
-
